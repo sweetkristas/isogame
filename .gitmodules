@@ -1,0 +1,9 @@
+[submodule "sol2"]
+	path = sol2
+	url = git@github.com:ThePhD/sol2.git
+[submodule "luajit-2.0"]
+	path = luajit-2.0
+	url = http://luajit.org/git/luajit-2.0.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/sweetkristas/imgui
